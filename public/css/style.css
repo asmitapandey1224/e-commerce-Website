@@ -545,7 +545,7 @@ label #btn, label #cancel{
     width: 100%;
 }
 .Top_Stories_container{
-    background: #2e2c2c;
+    background: #7d0229;
     border-top: 1px solid #f5f5f5;
     margin-top: 25px;
 }
@@ -565,7 +565,7 @@ label #btn, label #cancel{
     column-gap: 20px;
 }
 .About{
-    color: #787776;
+    color: #190c05;
     font-size: 13px;
     margin-bottom: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -590,7 +590,7 @@ label #btn, label #cancel{
     grid-template-columns: repeat(1,1fr);
     padding: 10px 20px;
     margin-top: 10px;
-    border-top: 1px solid #454d5e;
+    border-top: 1px solid #5e4745;
 }
 .Last_Block *{
     margin: 8px 0;

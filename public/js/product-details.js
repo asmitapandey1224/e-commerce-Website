@@ -15,7 +15,7 @@ loader.style.display = 'block';
      fetch('/get-products', {
          method: 'post',
          headers: new Headers({'Content-Type': 'application/json'}),
-         body: JSON.stringify({email : 'asmitapandey202@gmail.com'})
+         body: JSON.stringify({email : 'khushi123@gmail.com'})
      })
      .then(res => res.json())
      .then(data => {
